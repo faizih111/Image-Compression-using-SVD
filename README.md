@@ -28,4 +28,4 @@ It reduces image size while maintaining visual quality.
 Learn SVD and apply it to real-world image compression.
 
 ## 👤 Author
-Faiz
+Faizan
